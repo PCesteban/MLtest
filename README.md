@@ -11,5 +11,5 @@ ImageProcessing folder:has the codes and ultrasound images for image pocessind a
 
 ### Task list
 
-[x] - Merge the foour datasets into one complete dataset with all features and samples of the wavelets.
-[x] - Run each experiment with the different models with this new dataset.
+- [x] Merge the foour datasets into one complete dataset with all features and samples of the wavelets.
+- [x] Run each experiment with the different models with this new dataset.
